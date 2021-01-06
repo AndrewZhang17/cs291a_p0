@@ -1,0 +1,41 @@
+body {
+    background-color: #E6E8E6;
+    margin: 2em 25%;
+}
+
+table {
+    margin: 2em auto;
+}
+
+table, th, td {
+    border: 2px solid #9FB8AD;    
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: center;
+    padding: 1em;
+}
+
+th {
+    background-color: #CED0CE;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#source {
+    padding: 0.5em;
+    border: 2px solid #9FB8AD; 
+    background-color: #CED0CE;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
